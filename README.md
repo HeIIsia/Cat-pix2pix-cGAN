@@ -16,10 +16,10 @@ Epoch 5
 <img width="432" height="288" alt="epoch 5" src="https://github.com/user-attachments/assets/f6b6c4af-d2a0-4def-a8e0-c16ace0d7c7f" />
 
 Epoch 10
-<img width="432" height="288" alt="epoch 10" src="https://github.com/user-attachments/assets/56f3075b-77b3-47de-bed8-448e1d2a28af" />
+<img width="432" height="288" alt="epoch 10" src="https://github.com/user-attachments/assets/22c70794-83a0-4d0a-acfe-094ef5dff684" />
 
 Epoch 15
-<img width="432" height="288" alt="epoch 15" src="https://github.com/user-attachments/assets/348f17e4-202f-4012-8941-ea60df80ae00" />
+<img width="432" height="288" alt="epoch 15" src="https://github.com/user-attachments/assets/bcd33027-bc21-4a29-8303-d9ae347441ec" />
 
 Epoch 20
 <img width="432" height="288" alt="epoch 20" src="https://github.com/user-attachments/assets/41230be9-cd26-4045-94b1-9718ad0ea0e8" />
